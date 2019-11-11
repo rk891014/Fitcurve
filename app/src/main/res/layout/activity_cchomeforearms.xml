@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".advancedhome.cchomeforearms">
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="136dp"
+        android:layout_marginTop="0dp"
+
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/homeworkouthome"
+        android:fitsSystemWindows="true"
+        android:gravity="bottom"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top|center|end|bottom"
+            android:text="BISEPS"
+            android:textColor="#FFFFFFFF"
+            android:textSize="25dp"
+            android:layout_marginTop="35dp"
+            android:textAlignment="center"
+            android:typeface="serif"
+            android:textStyle="bold"/>
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            app:layout_collapseMode="pin"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="           ADVANCED" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_cchomeforearms" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

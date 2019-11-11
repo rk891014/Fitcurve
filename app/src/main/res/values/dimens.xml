@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="abc_action_bar_home_description" msgid="4600421777120114993">"Odlazak na Početnu"</string>
+    <string name="abc_action_bar_up_description" msgid="1594238315039666878">"Kretanje nagore"</string>
+    <string name="abc_action_menu_overflow_description" msgid="3588849162933574182">"Još opcija"</string>
+
+
+    <dimen name="nav_header_height">2dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

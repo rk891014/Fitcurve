@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/photo_fragment"
+        android:icon="@drawable/camera"
+        android:title="Fun Fitness" />
+
+    <item
+        android:id="@+id/challenges"
+        android:icon="@drawable/medal"
+        android:title="Challenges" />
+
+    <item
+        android:id="@+id/community"
+        android:icon="@drawable/group"
+        android:title="Community" />
+
+    <item
+        android:id="@+id/plans"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="plans" />
+
+    <!--<item-->
+        <!--android:id="@+id/navigation_home4"-->
+        <!--android:icon="@drawable/ic_home_black_24dp"-->
+        <!--android:title="Tips" />-->
+
+</menu>

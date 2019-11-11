@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".generalexercises.facetonningfragment">
+<androidx.core.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="0dp"
+            app:cardElevation="100dp"
+            app:cardCornerRadius="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_columnWeight="2"
+                    android:layout_rowWeight="2"
+                    android:elevation="100dp"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ankleswayleft" />
+
+
+
+            </LinearLayout>
+
+
+
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick1"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/armscissors" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick2"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/fulllieburpee" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card4"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick3"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/highstepping" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card5"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick4"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/hiproll" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card6"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick5"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/jogging" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card7"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick6"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/jumpingjack" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card8"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick7"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/jumpingtwist1" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card9"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick8"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/laptap" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card10"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView11"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/skippingwithoutrope" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card11"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/skippingwithoutrope" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card12"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView13"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/skippingwithoutrope" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card13"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView14"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/stairsjumpingwithoneleg" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card14"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView15"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/stairsjumping" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card15"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView16"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/steppinghigh" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card16"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView17"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/unilateraljump" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card17"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView18"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/ankleswayright" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card18"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="10dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="100dp"
+            tools:layout_editor_absoluteX="5dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView19"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_rowWeight="2"
+                    android:layout_columnWeight="2"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/kjdfjk"
+                    android:onClick="onclick9"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/xmenjump" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
+
+</FrameLayout>

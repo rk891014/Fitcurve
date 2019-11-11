@@ -1,0 +1,1301 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GIRLS_FITNESS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_workout__training">Workout_Training</string>
+
+    <string name="title_activity_exercises">Exercises</string>
+    <string name="title_activity_home__workout__training">Home_Workout_Training</string>
+
+
+    <string name="title_activity_smart__abs">Smart_Abs</string>
+    <string name="title_activity_abs">Abs</string>
+
+    <string name="title_activity_shoulder">Shoulder</string>
+    <string name="title_activity_biseps">Biseps</string>
+    <string name="title_activity_chest">Chest</string>
+    <string name="title_activity_triceps">Triceps</string>
+    <string name="title_activity_back">Back</string>
+    <string name="title_activity_cardio">Cardio</string>
+    <string name="title_activity_forearm">Forearm</string>
+    <string name="title_activity_legs">Legs</string>
+    <string name="title_activity_calf">Calf</string>
+    <string name="title_activity_glutes">Glutes</string>
+    <string name="title_activity_sidefat">Sidefat</string>
+    <string name="title_activity_intermediate">Intermediate</string>
+    <string name="title_activity_advanced">Advanced</string>
+    <string name="main_activity">This is our Main Activity</string>
+    <string name="another_activity">This is our Another Activity</string>
+
+    //abs beginner
+    <string name="mountainclimber">"1) Put your palm on the floor with straight arms at shoulder width apart.Your body should be in the form of an inclined straight line.
+2) Raise one knee to the chest and put it back.Now raise the other knee to the chest and put it back.
+3) Repeat the whole process again."</string>
+    <string name="flutterkicks">"1)Lie on your back on the floor.
+2)keep your palms on the ground near your glutes.
+3)Raise your legs about 5 inches off the ground and keep them straight.
+4)While keeping your legs straight, raise a leg higher while lowering the other.</string>
+    <string name="abscycling">"1)Lie flat on the floor with your lower back pressed to the ground.
+2)Put your hands behind your head, then bring your knees in towards your chest and lift your shoulder off the ground, but be sure not to pull on your neck.
+3)Straighten your right leg out and after that straighten your left leg out while putting right leg in its initial position.</string>
+    <string name="legscissors">"1)Lie face up on the floor. To support your lower back, either tilt your pelvis and engage your abs to press the lower back to the floor or place your hands under your tailbone.
+2)Extend your legs straight up into the air. Slowly open your legs out to the sides so you form a V with your legs.
+3)Pause and then slowly bring your legs back together and cross each other.</string>
+    <string name="vcrunchonchair">"1)Sit on a chair on your glutes. place your hands on the chair for support.Don't make any contact between your head, back etc with chair.
+2)Make a v shape pousture by bending your knees . Contract your abdominal muscles by tighten your core.
+3)Go back to your initial position and do the same thing again.</string>
+
+    <string name="stomachcrunches">"1)Lie down on the floor with your face up and legs straight.
+2)Put your hands behind the head and lift your torso up as much as you can.
+3)Keep your core engaged.</string>
+    <string name="pilateslegpulls">"1)Sit tall with your legs together, extended straight in front of you.
+2)Keep your chest open, and your shoulders rotating back and down as you pull the heels of your hands directly back until you can place your hands flat on the floor with fingertips pointing front.
+3)lift your right leg toward the ceiling. Hold the rest of your body completely still. Don't let lifting your leg pull your pelvis out of alignment. Your hip doesn't go with the move, nor does your butt drop.
+4)lift your left leg. You can take a break before lifting the left leg if you need to.
+5)Lower yourself with control and keep your shoulders down. Start over, lifting the left leg.
+6)Inhale to return the leg to the floor. Exhale to hold.</string>
+    <string name="pilatestoetap">"1)Lie on your back with your arms alongside your hips. Contract your belly to pull your navel to your spine.
+2)Lift your legs up and bend your knees so they are right over your hips and your shins are parallel to the floor.
+3)Slowly lower your right foot and leg to "tap" the floor. Keep the 90-degree bend in the knee as you lower.
+4)Return the right leg to the start and repeat with the left leg.</string>
+    <string name="reverseabbike">"1)Lie down on the floor with your face up.
+
+2)Raise your legs so your thighs are perpendicular to the floor and your knees are bent at a 90° angle. Breathe out and contract your abs.
+
+3)Pretend to pedal a bike backwards with your legs in front of you.</string>
+
+    //abs intermideate
+
+    <string name="crunches">"1) Lying on the floor face up, with your knees bent and your feet on the floor.Place you hand behind your head.
+2) Slowly lift your upper body towards the knees until you feel a gentle pressure in abdominal muscles.
+3) Now come back to your initial posture gradually.</string>
+
+    <string name="kneetochestcrunches">"1)Start in a seated position with your knees bent and feet off the floor. Your chest should be open and lifted. This is similar to a modified Boat pose in yoga.
+2)With your arms by your sides, slowly unfold from your seated v by simultaneously lowering your torso and legs toward the floor.
+3)Stop when your legs are around a 45-degree angle. Be sure to keep your head and shoulders off the floor and your lower back pressed into the mat.
+4)With your core tight and tucked, use your abs to return to the starting position.</string>
+
+    <string name="legdrop">"1)Lie on your back with your legs extended and toes towards the ceiling. There should be a slight bend in your knees.
+2)Put your palm on the floor and contract your abdominal muscles.
+3)Drop your right leg towards the ground (Make sure your leg should not touch the floor).
+4)Slowly lift your dropped leg to the initial position.
+5)Do the same with your left.</string>
+
+    <string name="legroll">"1)Lie on your back with your legs extended pointed towards the ceiling. Put your palm on the floor and contract your abdominal muscles.
+2)Drop your both leg to the ground but not touch the floor. Then move your feet towards glutes by bending your knees.
+3)lift your shins to the initial position.</string>
+
+    <string name="singlekneetochest">"1)Start in a seated position with your legs straight and feet off the floor. Your chest should be open and lifted.
+2)With your arms by your sides, slowly fold your right leg to the chest by simultaneously lifting your torso.
+3)Go back to your initial position with your core tight and tucked, use your abs to return to the starting position.
+4)Do the same thing with your left leg.</string>
+
+    <string name="cruncheswithlegonchair">"1)Lie down on the floor with your back on the floor. Lift your legs off ground and put your leg on the chair by bending your knees. There should be a right anglr between your thighs and shins.
+2)Hold your legs in this position and slowly lift your torso to the knees.
+3)Slowly go back to your normal position and do the required reps.</string>
+
+    <string name="abbike">"1)Lie flat on the floor with your lower back pressed to the ground.
+2)Put your hands behind your head, then bring your knees in towards your chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.
+3)Straighten your right leg out while turning your upper body to the left, bringing your right elbow towards the left knee.
+4)Make sure your rib cage is moving and not just your elbows.
+5)Now switch sides and do the same motion on the other side to complete one rep.</string>
+
+    <string name="plankjack">"1)Start in a plank position with your forarms and hands under your shoulders.
+2)Feet should be together and your body should be in a straight line from your head to your heels.
+3)Engage your abs by pulling them in.
+4)Step your right foot out to the side. Bring it back to center.
+5)Step your left foot out to the side. Bring it back to center.</string>
+
+    <string name="toetouchcrunch">"1)Lie on your back and reach your arms behind you, pointing your legs toward the ceiling.
+2)Swing your arms toward the ceiling as you do. lift your head and shoulder off the ground.
+3)Touch your toes, while lifting your pelvis slightly off ground so your toes move toward your fingers. </string>
+
+    <string name="windmill">"1)Lie down on the floor with your leg straight.
+2)Put any object in front of your feet.
+3)Lift your legs and move them across the object in both directions with your core tighten.</string>
+
+    //shoulder beginner
+
+    <string name="backpulling">"1)Stand straight on your feet hip width apart on the floor and your hands straight.
+2)Raise your hands and make fist with your palms. Move your hands forth and back as shown in vedio.
+3)Your back should move with your hands.</string>
+
+
+    <string name="circlepulls">"1)Stand straight on your feet hip width apart on the floor and your hands straight.
+2)Lift your hands to your chest and grab both of your palms together. Keep your hands straight and elbows pointed outward.
+3)Move your elbows in such a way as you are making the sign of infinity logo. Keep your shoulder rotating throughout the exercise.</string>
+
+
+    <string name="criscrosshands">"1)Stand straight on your feet hip width apart on the floor and your hands straight.
+2)Raise your hands up, in front of you and parallel to the floor.
+3)Move them in a cris cross motion. Include your shoulders and back muscles in this exercise.</string>
+
+
+    <string name="floatinghands">"1)Stand straight on your feet hip width apart on the floor and your hands straight.
+2)Raise your hands up, in front of you and parallel to the floor. Hands also should be parallel to each other.
+3)Pull your hands back until your elbows come to the shoulder level. Move your back with your hands.</string>
+
+
+    <string name="lyingwingfly">"1)Lie down on the floor with your face down and legs extended.
+2)Put your hands straight and near your hips.
+3)Move your back muscles by lifting your hands up as much as you can. Back to your normal position and do the required reps.</string>
+
+
+    <string name="prayerpulses">"1)Stand straight on your feet hip width apart on the floor.
+2)Make a prayer pose with both of your hands, palms touching each other  completely.
+3)Lift your hands upto your head (holding this posture) with the help of your back muscles.</string>
+
+    <string name="fullhandrotation">"1)Lie down flat on the floor with your back facing the roof.
+    2)Bent your knees and lift your shins off the ground. Keep your soles on your hips by folding your legs.
+    3)Extend your hands completely and make them parallel to the ground. Make sure they should not touch the ground.
+    4)Move your hands in a circle as shown in vedio.</string>
+
+
+    <string name="shouldermove">"1)Stand straight on your feet hip width apart. Keep your body straight.
+    2)Raise your hands up and keep them in front of you, parallel to the ground.
+    3)Pull your hands back near your chest and raise them up towards the sky.
+    4)Again pull them back. Here your one rep is completed.</string>
+
+    <string name="standingscorpianmove">"1)Stand straight on your feet hip width apart. Keep your body straight.
+    2)Raise your hands up towards the ceiling and keep them shoulder width apart.
+    3)Bent your elbows and pull your hands down. Move your elbows slightly backward while lowering your hands.</string>
+
+    // shoulder intermediate
+
+
+    <string name="backextension">"1)Lie down on the floor with your face down. keep your legs either folded or extended.
+2)Take a towel in your hands and grab it with both of your palms. Put your arms slightly wider than shoulder width.
+3)Lift your hands off ground and raise them as high as you can with the help of your shoulder muscles.
+4)Slowly put your hands back to initial position. Your hands should be fully extended.</string>
+
+
+    <string name="bentoverrows">"1)Put your feet on the floor slightly wider than hip width. Your knees and upper body should be slightly bent.
+2)Take a towel in your hands and grab it with both of your palms. Put your arms slightly wider than shoulder width.
+3)In initial position your hands should be fully extended and inclined.
+4)Now pull the towel near you and bend your elbows. Include your back muscles throughout the exercise.</string>
+
+    <string name="backandforthhand">1)Lie down flat on the floor with your back facing the roof.
+2)Extend your arms in front of you and keep them wider than shoulder width.
+3)Lift your extended hands off the ground and move them towards your back.
+4)Tap your palms on the back side and again move them towards their initial position.
+5)Here your one rep is completed.</string>
+    <string name="grippedbentoverrows">1)Stand straight on the floor with your legs wider than hip width and some weight in your hands.
+2)Slightly bend your knees as well as your upper body. Keep your spine straight in this position.
+3)Pull that weight near you and squeeze your back muscles. Hold for a second and release them while moving back to your initial position.</string>
+    <string name="scorpianmove">1)Lie down flat on the floor with your back facing the roof.
+2)Extend your arms in front of you and keep them off the ground.
+3)Keep your hands fully stretched and wider than shoulder width.
+4)Pull your shoulder muscles back and forth by moving your hands.</string>
+    <string name="hangingweightedrows">1)Take a chair and put your left hand on it by bending your upper body in a right angle with your legs.
+2)Take some weight in your right hand and grab it lightly.
+3)Move your hand slowly up and down as you are pulling something.
+4)Focus on your back muscles.</string>
+    <string name="overheadpress">1)Stand straight on the floor and keep your feet shoulder width apart.
+2)Raise your hands up towards the sky and make fist with your palms.
+3)Lower your hands down by bending your elbows until your back arms become parallel to the ground.
+4)Get back into your initial position.</string>
+    <string name="pullanddown">1)Stand straight on your feet hip width apart and hands down.
+2)Raise your hands up in front of you until they become parallel to the ground.
+3)Pull your hands near you and then away from you. After it lower down your hands and get back into initial position.</string>
+    <string name="sideplank">1)Lie down on the floor on your left side and get into a side plank position.
+2)Fold your lower leg by bending its knee and keep your upper leg straight and fully extended.
+3)Raise your upper hand up towards the ceiling and keep your lower forearm on the floor for support.
+4)Hold this position for required time.</string>
+    <string name="xxx">nahi mila</string>
+
+
+    <string name="duckswim">"1)Lie down on the floor with your face down and legs straight. Put your hands near your body and palms facing the roof.
+2)Lift your shoulder as well as your hands off the ground as high as you can.
+3)Take the support of your shouldeers in lifting not your arms.</string>
+
+
+    <string name="halfrainbowarch">"1)Lie down on the floor on your one side.
+2)Put your left forearm on the floor for support and lift your upper body off ground. Keep your right leg extended and left leg bent.
+3)Take some weight in your right hand. Your right hand with some weight should be placed on your right thigh.
+4)This is your initial position. Now lift the weighted hand towards the ceiling as if you are making a half rainbow arch.</string>
+
+
+    <string name="kneetochinlift">"1)Stand straight on your feet hip width apart on the floor.
+2)Take some weight in your hands and grab it with your palms.
+3)Lift the weight up towards your chin as shown in vedio with the help of your shoulders.
+4)Go back to your initial position and repeat the process.</string>
+
+
+    <string name="standingwingfly">"1)Put your feet on the floor slightly wider than hip width. Your knees and upper body should be slightly bent.
+2)Open your hands outside your body and make them straight.
+3)Swing your hands up and down as like tiny pulses with the help of your shoulder muscles.</string>
+
+
+    <string name="weightedbentoverrows">"1)Put your feet on the floor slightly wider than hip width. Your knees and upper body should be slightly bent.
+2)Take some weight in your hands and grab it with both of your palms. Put your arms slightly closer than shoulder width and your palms should be very close to each other.
+3)In initial position your hands should be fully extended and inclined.
+4)Now pull the towel near you and bend your elbows. Include your back muscles throughout the exercise.</string>
+
+    // shoulder advanced
+
+
+    <string name="backarch">"1)Lie down straight on the floor. Keep your hands and legs straight. Put your hands shoulder width apart and place them in front of your face.
+2)Lift your shoulder off ground by pulling your hands back. Also lift your legs off the ground while pulling your hands back.
+3)Get back to your normal position and do the required reps.</string>
+
+
+    <string name="backhandstretch">"1)Stand tall on the floor.
+2)Take a towel in your hands and grab it with your palms on the back side of your body (near your hips).
+3)Lift your hands up and move the towel away from your body with the help of your shouldeer muscles.
+4)Get back to your initial position slowly.</string>
+
+    <string name="extensionwithresistanceband">"1)Sit down on the floor on your knees and your spine straight.
+2)Take a resistance band in your hands and hold it above your head. This is your initial position.
+3)Pull this band down till your back and then slowly get back to yuor initial position.
+4)Your hands should be straight throughout the exercise and your back muscles should be move.</string>
+
+
+    <string name="liedownrow">"1)Lie down on the floor with your face down and your legs straight.
+2)Take a towel in your hands and grab it in front of your face with your fully extended hadns.
+3)Pull the towel till your chest by moving your back muscles and then put it back to its initial position.
+4)Make sure the towel should not touch the ground through whole exercise.</string>
+
+
+    <string name="pikeshoulderpress">"1)Put your palms and toes on the floor with your face down. Keep the rest of your body off ground and knees slightly bent.
+2)Move your body to the floor with the help of your shoulder and do a kind of pushup.
+3)Come back to your initial position. Focus on your back and shoulder muscles throughout the exercise.</string>
+
+    <string name="resistancebandrows">"1)Put your feet on the floor slightly wider than hip width. Your knees and upper body should be slightly bent.
+2)Stuck the band in your left leg and grab it with your right hand.
+3)Pull the band near your chest with the help of your shoulder muscles.
+4)Get back your initial position slowly and complete your reps.</string>
+
+
+    <string name="shoulderextension">"1)Put your knees and palms on the floor. Keep your spine straight parallel to the floor.
+2)Take a resistance band in your hands. Stuck it in your left hand and grab with your right palm.
+3)Raise your hand up and pull the band with the help of your shoulder muscles.
+4)Slowly get back to your normal position and repeat again.</string>
+
+
+    <string name="shoulderpullwithresistanceband">"1)Sit down on the floor with your legs extended and spine straight. Keep your legs slightly wider than hip width.
+2)Take a resistance band, stuck it in your right leg on one end and grab its other end with your left hand.
+3)Pull the band near you by moving your shoulder and slowly back to your normal position.</string>
+
+
+    <string name="shoulderpushups">"1)Lie down straight on the floor with your face down.
+2)Lift your body off ground with the help of your forearms and put your toes on the floor.
+3)Keep your spine straight and core tight. Push your body to the ground by moving your back and shoulder muscles.
+4)Slowly get back to your initial position.</string>
+
+
+    //arms
+
+
+    <string name="bicepscurl">"1)Stand straight on your feet at hip width apart.
+2)Take a towel in your hands and grab it with your palms. Put your right leg on it as shown in vedio.
+3)Bend your elbows and lift your forearms up. Slowly put them back to their initial position.
+4)Focus on your biceps muscles. </string>
+
+
+    <string name="chestpress">"1)Stand straight on your feet at hip width apart.
+2)Bend your elbows and keep them in touch with each other.
+3)Press your chest with your elbows by moving your hands up and down.</string>
+
+
+    <string name="forearmrotation">"1)Stand straight on your feet at hip width apart.
+2)Place your back arms parallel to the floor.
+3)Rotate your forearms up and down as shown in vedio.</string>
+
+    <string name="forearmssway">"1)Stand straight on the floor. Bend your upper body slightly and keep your spine straight.
+2)Place your back arms parallel to the floor and fix them in this position.
+3)Swing your forearms slowly.</string>
+
+
+    <string name="hammermove">"1)Stand up on the floor with your upper body slightly bent.
+2)Keep your hands straight. Place them near your body and hold this position.
+3)Lift your forearms up towards your biceps and put them back to their initial position  slowly.
+4)Focus on your biceps muscles.</string>
+
+    <string name="lyingbicepscurl">"1)Lie down on the floor with your face up and feet on the floor.
+2)Take a towel in your hands and grab it with your palms. Put your right foot on it as shown in vedio.
+3)Bend your elbows and lift your forearms up. Slowly put them back to their initial position.
+4)Focus on your biceps muscles. </string>
+
+
+    <string name="overheadextension">"1)Sit on your knees on the floor and your upper body straight.
+2)Take some weight in your hands and grab it with your palms. Raise your hands up towards the ceiling.
+3)Push your forearms back by bending your elbows. Slowly get back into your initial position.
+4)Focus on your triceps muscles.</string>
+
+
+    <string name="planktodownwarddog">"1)Place your forearms and toes on the floor and get into a straight arm plank position.
+2)Start to switch your posture to downward facing dog position by lifting your hip.
+3)Again go to your plank position. Here your one rep is completed. </string>
+
+
+    <string name="preachercurl">"1)Take a chair and put your right hand on it.
+2)Lift some weight with your right hand and move its forearm up and down.
+3)Your biceps muscles should be activated throughout the exercise.</string>
+
+    <string name="pushuprightcurl">"1)Stand straight on your feet wider than hip width.
+2)Bend your elbows and grab your palms with each other.
+3)Lift your forearms up by holding this posture and work on your biceps muscles.</string>
+
+
+    <string name="slicecut">"1)Stand straight on your feet hip width apart.
+2)Open your hands in your both sides and keep them parallel to the floor. Keep yoour palms open.
+3)Move your arms back and forth as shown in vedio.</string>
+
+
+    <string name="tricepsdips">"1)Take a chair and put your hands on it. Keep your back facing the chair and feet flat on the floor.
+2)Bend your elbows and lower your body down. Bend your knees also while lowering your body.
+3)Keep ingaged your triceps muscles throughout the exercise. </string>
+
+    <string name="tricepsdipsonfloor">"1)Place your palms and feet on the floor. Keep the rest of your body off ground.
+3)Bend your elbows and lower your body down until your hips almost touch the ground.
+4)Come back to your initial position with the force of your triceps muscles.</string>
+
+
+    <string name="tricepsdipswithextendedleg">"1)Take a chair and put your hands on it. Keep your back facing the chair and legs fully extended.
+2)Bend your elbows and lower your body down. Don't bend your legs while lowering your body.
+3)Keep ingaged your triceps muscles throughout the exercise. </string>
+
+
+    <string name="weightedarmcircle">"1)Sit on the floor on your knees and keep your upper body straight.
+2)Take some weight in your right hand and move it in a complete circle so that your shoulder can move.
+3)Complete your reps and then switch the hand. </string>
+
+
+    <string name="wristtwist">"1)Stand straight on your feet hip width apart.
+2)Place your hands in front of you and parallel to the floor. Your palms should face each other.
+3)Make fist with your palms and rotate your wrist in outward direction.</string>
+
+
+    <string name="zigzagpalmkneepushups">"1)Get into the position of knee pushups.
+2)Place your forearms on the floor in zig zag manner.
+3)Bend your elbows and lower your body down.
+4)Go back to your initial position. Focus on your triceps muscles. </string>
+
+
+    <string name="bicepspushups">"1)Lie down on the floor with your face down and legs straight.
+2)Put your palms near your waist and your fingures pointed towards your legs.
+3)Push your body up until your hands become straight, hold for a few seconds and lower your body down.
+4)Keep your body straight and focus on your biceps muscles. </string>
+
+    <string name="fullresistancestretch">"1)Stand straight on your feet wider than hip width. There should be a proper gap between your legs.
+2)Take a resistance band and grab its one end with both of your palms. Put its other end below your left leg.
+3)Stretch the band to your right side with both of your hands and put it back in its initial position. </string>
+
+
+    <string name="invertedhandbicepscurl">"1)Stand straight on your feet at hip width apart.
+2)Take a towel in your hands and grab it with your palms. Keep your palms facing floor. Put your right leg on it as shown in vedio.
+3)Bend your elbow and lift your forearms up. Slowly put them back to their initial position.</string>
+    4)Focus on your biceps muscles.
+
+
+    <string name="iosteppingwithhand">"1)Put your feet on the chair and hands on the floor. Keep your core tight in this posture.
+2)Take a few steps away from the chair with your hands and then take some steps towards the chair.</string>
+
+
+    <string name="palmpushups">"1)Put your palms and toes on the floor. Your fingures should be pointed towards each other.
+2)Lower your body by bending your elbows until your chest nearly touches the floor.
+3)When your torso is in the bottom of the position of move, take a little pause and push back to the starting position.
+4)Your hips should not sag at any point during the exercise.</string>
+
+    <string name="pushupswithlegonchair">"1)Take a chair and put your toes on it. Place your palms on the floor. Keep your body straight.
+2)Lower your body by bending your elbows until your chest nearly touches the floor.
+3)When your torso is in the bottom of the position of move, take a little pause and push back to the starting position.
+4)Your hips should not sag at any point during the exercise.</string>
+
+
+    <string name="reversewristcurl">"1)Stand straight on your feet hip width apart and keep your hands down.
+2)Twist your hands towards outside and make fist with your palms.
+3)Move your wrist as shown in vedio.</string>
+
+    <string name="shouldertouchplank">"1)Put your toes and forearms on the floor and get into a straight arm plank position.
+2)Lift your right hand off ground and touch your left shoulder.
+3)Go back to your initial position and now lift your left hand off the ground.</string>
+
+
+    <string name="singlearmtorsolift">"1)Lie down on the floor on your left side with your leg fully extended.
+2)Keep your right palm on the floor and left on your waist.
+3)Lift your torso off ground with the help of your right hand.</string>
+
+
+    <string name="tricepspushupswithchair">"1)Take a chair and put your toes on it. Place your hands on the floor.
+2)Keep your both palms close to each other and make the posture of daimond pushups.
+3)Bend your elbows and lower down your body until your chest is almost touching the ground.
+4)Get back into your initial position.</string>
+
+
+    <string name="wristcurl">"1)Stand straight on your feet hip width apart and keep your hands down.
+2)Make fist with your palms and keep your forearms tight.
+3)Move your wrist as shown in vedio.</string>
+
+
+    <string name="wristpushups">"1)Place your forearms and toes on the floor.
+ Make fist with both of your palms and keep them close to each other.
+2)Lift your forearms off the ground and raise your body up.
+3)Again come to your initial position by lowering your body.</string>
+
+    <string name="acceleratingcurl">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands in front of you and keep them straight.
+    3)Make fist with both of your palms and move your wrist up and down.</string>
+
+
+    <string name="armcircle">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands on the both sides of your body. Keep them straight and parallel to the floor.
+    3)Move your both hands in a circular way.</string>
+
+    <string name="birdfly">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Keep your hands on your sides with open palms.
+        3)Raise your hands and make them parallel to the ground. Keep your hands straight and fully extended.
+        4)Move them in upward and downward direction as if you are flying.
+    5)Move them up and down as if you are trying to fly.</string>
+
+
+    <string name="botharmcircles">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands in front of you and parallel to floor. They should be parallel to each other also.
+    3)Make a half circle with both of your hands in clockwise direction, again make a half circle in counterclockwise direction.</string>
+
+
+    <string name="criscroshands">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands in front of you. Open them outside wider than chest width.
+    3)Move your hands inside with your palms facing each other. Cross your hands and get back into initial position.</string>
+
+
+    <string name="elbowsqueez">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands on your side with your palms facing up. Keep them parallel to the floor.
+    3)Bend your elbows and bring the hands near your body.
+    4)Get back into your initial position.</string>
+
+    <string name="elbowpush">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands on your sides parallel to the floor. Bend your elbows and make your hands folded.
+    3)Push your elbows down and then come back to your initial position.</string>
+
+
+    <string name="iosteppingwithchair">"1)Take a chair and put your palms on it.
+    2)Your feet should be on the floor. Keep your body straight with your face up. This is yor initial position.
+    3)Now take some small steps and walk to the chair.
+    4)Now take steps away from the chair and get back into your initial position.</string>
+
+
+    <string name="overhead">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Keep your hands up towards the ceiling and parallel to each other.
+    3)Move your hands down by bending your elbows.
+    4)Get back into your initial position slowly.</string>
+
+
+    <string name="popingbeats">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands in front of you, parallel to ground.
+    3)Move your both hands in opposite directions respectively (either up or down).</string>
+
+
+    <string name="pullanddownhands">"1)Stand straight on your feet shoulder width apart on the floor and your hands down.
+    2)Raise your hands in front of you till your chest level.
+    3)Make fist with your palms and pull your hands to your chest and then take them away from your chest.
+    4)Put your hands back to their initial position.</string>
+
+
+    <string name="upperhammering">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Place your hands in front of you, parallel to the floor and palms facing each other.
+    3)Make fist with your palms and put them above your shoulders by folding your hands.
+    4)Unfold your hands and back to your initial position.</string>
+
+
+    <string name="xarmswing">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Bend your elbows and lift them till your shoulder level.
+    3)Move your forearms in a criss cross motion and make a sign of x with them.</string>
+
+
+    <string name="punching">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Keep your hands folded and place your palms near your face. Make fist with your palms.
+    3)Push your hands away from your body one by one as if you are punching.</string>
+
+
+    <string name="upanddownhands">"1)Stand straight on your feet shoulder width apart on the floor.
+    2)Keep your hands down and straight. This is your initial position.
+    3)Raise your both hands up towards the ceiling and bring them back to initial position.</string>
+
+
+    <string name="benchpushups">"1)Place your hand on the edge of a bench just beyond shoulder width apart. 
+2)Hold your torso up at arms length with your toes on the floor. This is your starting position. 
+3)Slowly lower yourself downward until your chest nearly touches the bench. 
+4)Squeeze your chest and slowly press your upper body back to the starting position. Pause briefly at this position. This is one rep. 
+5)Repeat for a desired number of reps. </string>
+
+    <string name="backhammering">"1)Stand straight on your feet hip width apart on the floor.
+2)Put your hands up and grab your palms together. Move them towards your back by bending your elbows.
+3)Bring your hands back to your initial position (before your head).</string>
+
+    <string name="chestexpander">"1)Stand straight on your feet hip width apart on the floor.
+2)Take a resistance band in your hands and place them diagonally up to your chest.
+3)Pull that resistance band to your chest and expand your chest muscles. Put it back to its initial position.</string>
+
+    <string name="chestexpanderonsquatpose">"1)Take a resistance band on your hands and keep them upward straight. Go into squat position by lowering your hips back and down while bending your knees.
+2)Hold your body in this posture. Keep your torso and head straight and hands upright.
+3)Pull the resistance band to your chest without bending your elbows.
+4)Maintain your squat position through whole exercise.</string>
+
+    <string name="divebomberpushups">"1)Get down on all fours and place your hands on the floor so that they’re slightly wider than and in line with your shoulders.
+2)Push your hands into the floor and pull your hips up and back until you’re in a downward dog position. You should be up on your toes with your body forming an inverted V shape.
+3)Keeping your legs straight, bend your elbows and drive your chest forward and down toward the floor. As your head passes your hands, press up to straighten your arms, finishing in an upward dog position.
+4)Reverse the movement to return to the starting position. That’s one rep.</string>
+
+    <string name="hipliftchestpress">"1)Lie down on the floor with your face up, knees bent and feet flat on the floor.
+2)Take some weight in your hands and keep it near your chest. Lift your butt off ground as like the position of butt bridge.
+3)Raise your hands with weight up towards the ceiling and slowly put it back to its initial position.
+4)Thus do complete your required reps.</string>
+
+
+    <string name="pushupandkneekickwithchair">"1)Take a chair for this exercise. Put your hands on it and place your toes on the floor. Keep your body straight and core tight.
+2)Perform a pushup and then lift your right knee and kick towards the left side. Place that leg back and lift your left knee for kick.
+3)After both knee kicks again do the pushup and thus do your reps complete.</string>
+
+
+    <string name="pushups">"1)Get into a plank position, with your hands slightly outside of your shoulders.
+2)Lower your body by bending your elbows until your chest nearly touches the floor.
+3)When your torso is in the bottom of the position of move, take a little pause and push back to the starting position.
+4)Your hips should not sag at any point during the exercise.</string>
+
+
+    <string name="singlelegpushups">"1)Get into a plank position, with your hands slightly outside of your shoulders. Lift your one leg off ground.
+2)Lower your body by bending your elbows until your chest nearly touches the floor.
+3)When your torso is in the bottom of the position of move, take a little pause and push back to the starting position.
+4)Your hips should not sag at any point during the exercise.</string>
+
+    <string name="upperchestpress">"1)Lie down on the floor with your face up, knees bent and feet flat on the floor.
+2)Take some weight in your hands and keep it near your upper chest.
+3)Raise your hands with weight up towards the ceiling and slowly put it back to its initial position.
+4)Thus do complete your required reps.</string>
+
+
+    <string name="chestcircles">"1)Stand straight on your feet hip width apart.
+2)Fold your hands and keep your palms near chest.
+3)Make fist with both of your palms and rotate them in a circular way.
+4)Make sure your chest muscles are squeezing through exercise.</string>
+
+    <string name="cheststretch">"1)Stand straight on your feet hip width apart. Put your hands up towards the ceiling.
+2)Grab both of your palms over your head and push them back and forth as like some tiny pulses.
+3)Focus on your chest muscles.</string>
+
+    <string name="dynamicchest">"1)Stand straight on your feet hip width apart on the floor.
+2)Lift your hands at chest level. Fold them and make fist with your palms as shown in vedio.
+3)Push your elbows back and expand your chest muscles.
+4)Get back your initial position and repeat again.</string>
+
+    <string name="elbowchestexpander">"1)Stand straight on your feet hip width apart on the floor.
+2)Put your hands behind your head and elbows facing outside.
+3)Move your elbows in and squeez your chest muscles.
+4)Get back to your initial position and repeat the process again.</string>
+
+    <string name="elbowtouch">"1)Stand straight on your feet hip width apart on the floor.
+2)Raise your hands up and grab your palms near your head. Keep your elbows facing outside at your head level.
+3)Move your elbows in until they touch each other. Here your one rep is completed. </string>
+
+    <string name="palmtouch">"1)Stand straight on your feet hip width apart on the floor.
+2)Fold your hands and keep their elbows at your chest level. Your forearms should be in the side of your body.
+3)Move your forearms in until your palms touch each other.</string>
+
+    <string name="poolcrossover">"1)Stand straight on your feet hip width apart on the floor.
+2)Complete your exercise by following these steps-
+ step 1_Keep your hands straight in front of your body and parallel to the floor.
+ step 2_Move them to your sides. they should be straight and parallel still.
+ step 3_Pull your hands to your chest.
+3)Here one rep is completed. Do your own number of reps. </string>
+
+    <string name="shoulderrotation">"1)Stand straight on your feet hip width apart on the floor.
+2)Fold your hand and put your palms on the shoulder.
+3)Move your shoulder in a circular way.
+4)Focus on your chest muscles.</string>
+
+    <string name="straightpulling">"1)Stand straight on your feet hip width apart on the floor.
+2)Open your hands in front of your chest and make the sign of x with them.
+3)Pull them back to your chest and do your required reps.</string>
+
+
+    <string name="upwardpulling">"1)Stand straight on your feet hip width apart on the floor.
+2)Open your hands diagonally up in front of your chest and make the sign of x with them.
+3)Pull them back to your chest and do your required reps.</string>
+
+
+    <string name="cheststretchontoes">"1)Stand straight on your feet together on the floor and your hands up. Grab your palms together.
+2)Lift your body on your toes and stretch your chest by pushing your hands back.
+3)Come back to your initial position.</string>
+
+    <string name="fistflyacrosshead">"1)Lie down on the floor with your face up. Keep your knees bent and feet on the floor.
+2)Take some weight on your right hand and move it across your head in the semi circular path (weight is optional).
+3)Complete your target with this hand and then switch the hand.</string>
+
+    <string name="fistflies">"1)Lie down on the floor with your face up. Keep your knees bent and feet on the floor.
+2)Take some weight on your right hand and place it away from you body.
+3)Slowly move that weight to your chest. Thus your one rep is completed.</string>
+
+    <string name="halfpushups">"1)Lie down on the floor with your face down. Keep your legs straight.
+2)Put your palms on the floor near your chest and push your upper body off ground.
+3)Focus on your chest muscles and go down to your initial position.</string>
+
+    <string name="headpullover">"1)Lie down on the floor with your face up. Keep your knees bent and feet on the floor.
+2)Take some weight in your hands and grab it with your palms.
+3)Move this weight across your head and chest as shown in vedio.</string>
+
+    <string name="kneepushups">"1)Place your knees on the floor and hands below the shoulder.
+2)Keeping your back straight, start bending your elbows until your chest is almost touching the floor.
+3)Pause and push back to the starting position. </string>
+
+    <string name="pikechestpress">"1)Stand straight on your feet hip width apart on the floor.
+2)Fold your hands and raise your elbows to the chest.
+3)Lift your hands up in the way of a straight inclined line and pull them back to your chest.</string>
+
+    <string name="shoulderswing">"1)Stand on your feet hip width apart on the floor. Your upper body should be slightly bent but keep your spine straight.
+2)Lift your hands at chest level. Fold them and make fist with your palms as shown in vedio.
+3)pull your hands back and expand your chest muscles.
+4)Get back your initial position and repeat again.</string>
+
+    <string name="singlehandchestpress">"1)Lie down on the floor with your face up. Keep  your knees bent and feet on the floor.
+2)Hold some weight in your right hand and raise it up, above your chest.
+3)Slowly move your hand back to your chest level. Here your one rep is completed.
+4)Switch the hand after completing your reps.</string>
+
+    <string name="standingchestpressmove">"1)Stand straight on your feet hip width apart on the floor.
+2)Fold your hands and keep their elbows at your chest level. Your forearms should be in the side of your body.
+3)Move your forearms a little bit inside and back to initial position.</string>
+
+
+    <string name="curtsylunges">"1)Start standing with your feet about shoulder-width apart.
+2)Lift your left leg off the ground and step your left foot diagonally behind you, bending both knees to lower your butt toward the floor. 
+3)Be sure to keep your chest lifted and your spine long.
+4)Driving through your right heel, come back to standing. Kick your left foot out to your left side, and move directly into the next repitition.</string>
+
+    <string name="squatwithresistanceband">"1)Stand straight with your feet wider than hip width distance.
+2)Put a resistance band on your thighs.
+2)Slowly bent your knees by pushing hips back.Keep your shins straight.Go down until there comes a right angle between your thighs and shins.
+3)Dont lock your knees and keep your upper body straight as much as possible.
+4)Come back to the initial position and repeat the process again.</string>
+
+    <string name="sidelunges">"1)Start by standing tall with your feet parallel and shoulder-width apart. Your back should be straight and your weight on your heels. 
+2)Take a big step to the both sides and, ensuring you keep your torso as upright as possible. 
+3)Lower yourself to right side until the knee of your leading leg is bent at around 90°, keeping your trailing leg straight.
+4)Push back up and return to the starting position. Do the same thing on left side.
+5)Focus on bending and lowering from the hips, with your back straight and thigh engaged, as with a squat.</string>
+
+    <string name="squatsontoes">"1)Stand straight with your feet wider than hip width distance.
+2)Lift your body up and hold it on your toes.
+3)Slowly bent your knees by pushing hips back.Keep your shins straight.Go down until there comes a right angle between your thighs and shins.
+4)Dont lock your knees and keep your upper body straight as much as possible.
+5)Come back to the initial position and repeat the process again.</string>
+
+    <string name="popsquats">"1)Position your legs using a wider-than-shoulder-width stance with the toes slightly pointed out and knees slightly bent. Rest your hands on your waist. Keep your neck neutral and maintain a straight back. This will be your starting position.
+2)Descend into a squat by pushing your hips and butt backwards. Continue down until the upper legs are at or just below parallel to the floor and touch the ground with your fist. Inhale as you perform this portion of the movement.
+3)Once you reach your bottom position, begin to push through your heels to ascend upwards.
+4)Generate enough power to jump upwards. As you jump upwards, bring both feet inward towards one another so that you land with your feet a few inches apart. Be sure to land on your toes.
+5)As you land on your toes with your feet closer together, immediately propel yourself upwards and jump to return to the starting position. This is one repetition.
+6)Repeat for the recommended amount of repetitions.</string>
+
+    <string name="kneejump">"1)Sit on your knees, with the top of your feet fully on the ground. Set your butt on your heels. Once you get in that position, you are ready to begin. 
+2)To complete the jump, push your shins into the ground and try to extend your hips fully forward coming completely off the ground.
+3)Landing on your feet and maintain squat stance.</string>
+
+    <string name="kneetochestjump">"1)Start with your feet about shoulder-width apart and hands by your side. Keep your spine erect and abs tight. Roll your shoulders back and suck the belly button in.
+2)Get down into a quarter squat. Push your hips back and lean forward, but keep your back flat.
+3)Put all your force and jump up by pushing the ground down. As you jump into the air as high as you can, try to bring your knees to your chest .
+4)When you come down, land softly so as it does not become stressful for your knee joints. Try to push your hips down and back as you land to consume the impact. Also, be ready to jump again.</string>
+
+
+    <string name="resistancebackgrip">"1)Stand straight on your feet hip width apart. Take a resistance band and grab it with your hands supported by back (as shown in vedio).
+2)Put your right leg forward and go into a lunge position by bending your knees and pull the resistance band forward while lowering yourself.
+3)Go back to your initial position and loose the resistance band slowly.
+4)Complete your reps and hen switch the leg.  </string>
+
+
+    <string name="crabwalk">"1)Stand straight with your feet on the floor and palm grabbing each other.
+2)Lower yourself into a slight squat position, sticking  your  bottom out behind you as if you were about to sit down.
+3)Open the legs to slightly wider than  hip width  apart and turn the feet outwards.
+4)Keeping your upper body still, take a half step sideway. Now take a half step inwards with the opposite leg.
+5)Back to normal position and do the same process in your other side.</string>
+
+    <string name="kneehopwithchair">"1)Put your hands on a chair for support. Sit on your knees and keep your toes on the floor.
+2)Take a jump with the help of toes and stand up on your feet and hands on the chair.
+3)Keep including your thighs muscles in whole process.
+4)This is one rep. Keep repeating it until required.</string>
+
+    <string name="kneelift">"1)Stand straight on your feet hip width apart. Put your hands on your waist. Keep your spine straight.
+2)Lift your right leg up by bending its knee until your right thigh becomes parallel to the floor.
+3)Slowly put it back to its initial position. This is one rep.
+4)Complete the exercise with one leg and then switch the leg.</string>
+
+    <string name="legliftwithresistanceband">"1)Lie down on the floor. Put your feet flat on the floor by bending your knees.
+2)Put a resistance band in your legs.
+3)Lift your left shin upward against resistance band and feel a gentle pressure in your thighs muscles.
+4)Lift as much high as you can then slowly put it back in its initial position but not touch the ground.
+5)Switch the leg after completing with one leg.</string>
+
+    <string name="legswing">"1)Sit on a chair with your spine straight and feet on the floor. Keep your palms on your thighs.
+2)Lift your both leg off the ground and make them straight(parallel to ground).
+3)Slowly move them to initial position including your thighs muscles.</string>
+
+    <string name="singlelegkneetochest">"1)Lie down straight on the floor. Lift your legs and torso slightly off the ground. Keep your forearms on the floor.
+2)Hold your body in this position and move your right knee to chest by bending its knee.
+3)Slowly put it back and do the same thing with other knee. And here your one rep is completed.</string>
+
+    <string name="squathold">"1)Get into a normal standing position, with your body facing forward and feet parallel. Your feet should be directly underneath your shoulders.
+2)Now, slide them a couple inches apart and turn your toes slightly outward.
+3)Begin the squat by lowering your hips back and down while bending your knees. Lift your arms to chest level and grab your palms.
+4)Hold your body in this posture. Keep your torso and head straight and upright.</string>
+
+    <string name="toeslift">"1)Stand straight on your feet hip width apart. Put your hands on your waist. Keep your spine straight and face facing forward.
+2)Lift your whole body on your toes. Hold for a few seconds and then lower down your body.
+3)Repeat the whole process again.</string>
+
+
+    <string name="forwardlunges">"1)Stand straight with feet hip width apart . Grab your both palm with each other.
+2)Step your right leg forward then shift your body to the ground until your left shin becomes parallel to the floor.
+3)Fix your right leg forward and left leg backward and do the required reps.
+4)Switch your leg and repeat the process again.</string>
+
+    <string name="backwardlunges">"1)Stand straight with feet hip width apart . Grab your both palm with each other.
+2)Step your right leg back then shift your body to the ground until your left shin becomes parallel to the floor.
+3)Go back to your initial position and do the same thing with your opposite leg.</string>
+
+    <string name="lunges">"1)Stand tall with feet hip-width apart. Engage core.
+2)Take a big step forward with right leg and start to shift weight forward so heel hits the floor first.
+3)Lower body until right thigh is parallel to floor and right shin is vertical.
+4)Press into right heel to drive back up to starting position.
+5)Repeat on the other side.</string>
+
+    <string name="squats">"1)Stand straight with your feet wider than hip width distance.
+2)Slowly bent your knees by pushing hips back.Keep your shins straight.Go down until there comes a right angle between your thighs and shins.
+3)Dont lock your knees and keep your upper body straight as much as possible.
+4)Come back to the initial position and repeat the process again.</string>
+
+    <string name="sumosquats">"1)Stand straight with feet wider than hip-width apart, toes pointed out at 45 degrees, torso leaned slightly forward.
+2)Inhale as you bend your knees and sink your hips down until your thighs are parallel to the floor.
+3)Go back to starting position and again do a sumo squat. That’s one rep.</string>
+
+    <string name="sitandkick">"1)Stand straight on the floor. Put your legs in a few inches distance from each other.
+2)Move your body to sitting position including your thighs muscles.
+3)Now stand up and do a side kick with your right leg.
+4)Again do the same procedure and kick with your left leg.</string>
+
+    <string name="fullballetkick">"1)Lie down on the floor on your one side keeping your right leg up.
+2)Put your left hand's forearm beneath your shoulder and the palm of other hand near your torso.
+3)Lift your right leg up towards the ceiling. Keep your leg straight and muscles tight.
+4)Repeat until required counts then switch the leg.</string>
+
+    <string name="twostrokesquads">"1)Stand straight on your feet slightly wider than hip width apart.
+2)Slightly lower down your hips by bending their knees until your thighs become parallel to the ground.
+3)Hold for a second and then put your knees on the ground. Now reverse your process and go back to your initial position.</string>
+
+    <string name="jumpingsquads">"1)Stand tall with your feet hip-width apart.
+2)Hinge at the hips to push your butt back and lower down until your thighs are parallel to the floor.
+3)Then press your feet down to explode off the floor and jump as high as you can.
+4)Allow your knees to bend 45 degrees when you land, and then immediately drop back down into a squat, and jump again.</string>
+
+    <string name="lungeswithchair">"1)Take a chair and put your left leg on it and the right leg on the floor. Grab your palms near your chest.
+2)Bend your knee and make your right thigh parallel to the floor by lowering yourself.
+3)Use your legs muscles and come back to initial position.
+4)Do the required Reps and then switch the leg.  </string>
+
+    <string name="lungeskneehop">"1)Stand with your feet together and your knees soft.
+2)Lift your right leg up as you are jumping and come into a lunge position with your left leg forward.
+3)Complete the exercise with one leg and then switch the leg.</string>
+
+    <string name="reversebackstretchlunges">"1)Stand straight on your feet hip width apart. Put your hands on your waist.
+2)Put your right leg back and go into a lunge position by lowering yourself. Now raise your both hands up and bow down them towards right.
+3)Come back to your initial position and do the same thing with your left leg. Here your one rep is completed. </string>
+
+
+    <string name="bottomleglift">"1)Lying on your side, lengthen your bottom leg, and cross your top leg over, resting either your top knee or the top of your foot on the floor.
+2)Prop your head up with your hand, or rest your head on your arm.
+3)As you exhale, lift your bottom leg, and inhale as you lower it back down without letting it touch the floor.
+4)Your torso should stay still while you do this. This counts as one rep.</string>
+
+    <string name="buttbridgewithchair">"1)Put your hands on the chair and feet on the floor with your knees bent in right angle with thighs.
+2)Move your butt up and down and feel contraction in your glutes muscles.
+3)Do again and again until required counts.</string>
+
+    <string name="donkeykickwithresistanceband">"1)Assume the starting position on all fours: knees hip-width apart, hands under your shoulders, neck and spine neutral.
+2)Put a resistance band on your thigh.
+3)Bracing your core, begin to lift your right leg, knee staying bent, foot staying flat.
+4)Use your glute to press your foot directly toward the ceiling and squeeze at the top.
+5)Return to the starting position.</string>
+
+    <string name="firehydrant">"1)Start on your hands and knees. Place your shoulders above your hands and your hips above your knees. Tighten your core and look down.
+2)Lift your left leg away from your body at a 45-degree angle. Keep your knee at 90 degrees.
+3)Lower your leg to starting position to complete 1 rep.</string>
+
+    <string name="jumpingsumosquats">"1)Stand straight with feet wider than hip-width apart, toes pointed out at 45 degrees, torso leaned slightly forward.
+2)Inhale as you bend your knees and sink your hips down until your thighs are parallel to the floor.
+3)Take a jump for going back to starting position and again do a sumo squat. That’s one rep.</string>
+
+    <string name="squatswithresistanceband">"1)Stand straight with your feet wider than hip width distance.
+2)Put a resistance band on your thighs.
+2)Slowly bent your knees by pushing hips back.Keep your shins straight.Go down until there comes a right angle between your thighs and shins.
+3)Dont lock your knees and keep your upper body straight as much as possible.
+4)Come back to the initial position and repeat the process again.</string>
+
+    <string name="soletappingwithresistanceband">"1)Lie down with your feet and torso on the floor. Raise your hip off the ground. Keep your hands straight and palms on the floor.
+2)Put a resistance band on your thighs. Keep your knees bent.
+3)Hold your body in this position and move your right leg out by lifting its sole and tap the floor.
+4)Come back to initial position and do the same thing with other leg. This is one rep.</string>
+
+    <string name="standingballetkick">"1)Stand straight with your legs hip width apart and hands on your waist.
+2)Put a resistance band on your thighs.
+3)Lift your right leg up toward the right side as if you are doing a ballet kick.
+4)Put your leg back to its initial position but it should not touch the ground.
+5)This was one rep. Keep repeating it until require counts.</string>
+
+    <string name="jumpingsquats">"1)Stand tall with your feet hip-width apart.
+2)Hinge at the hips to push your butt back and lower down until your thighs are parallel to the floor. Then press your feet down to explode off the floor and jump as high as you can.
+3)Open your hands when you are in the air and grab your palms while doing squat.
+4)Allow your knees to bend 45 degrees when you land, and then immediately drop back down into a squat, and jump again.</string>
+
+
+    <string name="donkeykickwithchair">"1)Stand in a bent posture with your hands on chair.Feet should be flat on the floor.
+2)Push your leg towards your chest by bending it's knee and contract your abdominals muscles.
+3)Now lift that leg to the ceiling, knee staying bent, foot staying flat and squeez your glute.
+4)Repeat the process until require count then switch the leg.</string>
+
+    <string name="hipliftlegraises">"1)Lie down on the floor with your back flat on the ground. Keep your knees bent and feet on the floor
+2)slightly lift your hip from the ground , raise your right leg straight and move it upward.
+3)Hold for a few seconds and then move your leg downward. your leg should not touch the ground.</string>
+
+    <string name="iosquats">"1)Stand straight on the ground with your feet touch each other. Hands should be down towards the floor.
+2)Take a jump, move your legs out and do squat .Again take a jump and reach in initial position.
+3)Keep repeating it until required counts.</string>
+
+    <string name="crosskneelift">"1)Put your palms and knee on the floor keeping your spine straight.
+2)Lift your left leg with bent knee. Cross it over right leg and then come back to initial position by crossing the leg again.
+3)Repeat the same procedure with your right leg.</string>
+
+    <string name="deadliftsquats">"1)Stand straight with your legs hip width apart, make fist with your palms.
+2)Go down on a squat position as if you are doing dead lifts and stand straight.
+3)Repeat until require counts.</string>
+
+    <string name="legwing">"1)Lie down on your one side with your knees slightly bent and palms on the floor.
+2)Put a resistance band on your legs over knee (this is optional).
+3)Lift your knee upward including your glutes muscles and then back to normal.
+4)Do sufficient reps of this exercise and then switch the side.</string>
+
+    <string name="oneleggedhipthrust">"1)Lie down straight on the floor with your face up. Put your palms and feet on the floor with your knees bent and slightlt lift your body off ground.
+2)Hold your body in this position. Make your one leg straight and hold it in the air. Now move your hip up and down slowly.
+3)Include your glutes muscles in whole exercise and do the sufficient reps.</string>
+
+    <string name="sidesquatswithresistance">"1)Stand straight with your feet hip width apart and grab your palms with each other. Put a resistance band in both of your legs.
+2)Open your right leg out and do a squat. Come back to your initial position and now open your left leg for doing squat.
+3)Repeat the whole pocess again.</string>
+
+    <string name="sithit">"1)Stand straight on the floor. Put your legs in a few inches distance from each other.
+2)Move your body to sitting position including your glutes muscles.
+3)Now stand up and punch with your right hand to the left.
+4)Again do the same procedure and punch with your left hand.</string>
+
+    <string name="toplegcircle">"1)Lie down on the floor on your one side keeping your right leg up.
+2)Put your left hand's forearm beneath your shoulder and the palm of other hand near your torso.
+3)Lift your right leg up and move it in a circular path.
+4)Repeat until required counts then switch the leg.</string>
+
+
+    <string name="backwardkickwithchair">"1)Stand up on the floor. Make your posture slightly bent by bending your left knee.
+2)Put your hand on the chair for support and keep your spine straight .
+3)Kick back with your right leg and then come back to initial position.
+4)Do the same thing with your other leg.</string>
+
+    <string name="buttkick">"1)Stand up straight with your feet shoulder-width apart.
+2)Bend your knee, lifting your foot as if you're going to run, but instead, kick the foot up as high as you can in the back.
+3)Keep your knees directly below your torso . Aim to hit your butt or to reach almost to your butt.
+4)After kicking up high, bring the foot back to the ground. Move to the other foot.
+5)Bring the other foot up like you did the first one. As you bring up one leg, swing the opposite arm forward. Do the same with the other arm and leg.</string>
+
+    <string name="chairpulses">"1)Stand with your legs together, and soften your knees. Reach your arms overhead, as you fold your chest down toward your knees.
+2)Hold this position as you drop your tailbone down in a small pulsing motion.
+3)Keep your legs squeezed together for support.</string>
+
+    <string name="donkeykick">"1)Assume the starting position on all fours: knees hip-width apart, hands under your shoulders, neck and spine neutral.
+2)Bracing your core, begin to lift your right leg, knee staying bent, foot staying flat.
+3)Use your glute to press your foot directly toward the ceiling and squeeze at the top.
+4)Return to the starting position.</string>
+
+    <string name="kickback">"1)Stand straight with your feet together on the floor. Put your hands on your waist.
+2)lift your right leg and move towards back as you are kicking. Then come to your initial position.
+3)Do the same thing with your left leg.
+4) During whole exercise your legs should not touch the ground.</string>
+
+    <string name="crosslegpoint">"1)Put your palms and knee on the floor keeping your spine straight.
+2)Make your left leg straight and put the toes on the floor.
+3)Lift the straighten leg up to the right side and feel a gentle squeez in your left glute.
+4)Come to your initial position and repeat the same procedure with your right leg.</string>
+
+    <string name="halfballetkick">"1)Lie down on the floor on your one side keeping your right leg up.
+2)Put your left hand's forearm beneath your shoulder and the palm of otheer hand near your torso.
+3)Lift your right leg up and fold it from knee. Now open and close your leg with the help of knee and do kicks.
+4)Repeat until required counts then switch the leg.</string>
+
+    <string name="hipdrives">"1)Sit on the ground with the help of your knee and upper body straight. Put your hands on your waist.
+2)Go down by maintainig this position until your glutes touch your heels.
+3)Squeez your glutes and go back to your initial position.
+4)Do the required reps.</string>
+
+    <string name="modifieddonkeykick">"1)Assume the starting position on all fours: knees hip-width apart, hands under your shoulders, neck and spine neutral.
+2)Bracing your core, begin to lift your right leg, knee staying bent, foot staying flat and make it straight at the top.
+3)Use your glute to press your foot directly toward the ceiling and squeeze to make it straight.
+4)Return to the starting position.</string>
+
+    <string name="sidesquats">"1)Stand straight with your feet hip width apart and grab your palms with each other.
+2)Open your right leg out and do a squat. Come back to your initial position and now open your left leg for doing squat.
+3)Repeat the whole pocess again.</string>
+
+
+    <string name="jumpingtwist">"1)Stand straight on the floor keeping your feet near each other. Put your knees bent and hands on the level of shoulder. Make fist with your palm.
+2)Move your rib cage to the right and legs to the left .Make your core tight.
+3)Come back to your normal position and do the same thing to the right.</string>
+
+    <string name="standingbicyclecrunches">"1)Stand tall with your feet shoulder-width apart and place your fingertips behind the neck with your elbows pointing out to your sides in line with your shoulders.
+2)Begin the exercise raise your right knee up across the body as high as you can to your chest.
+3)Simultaneously twist your torso to the right and draw your left elbow towards the lifted knee so that you can feel the crunch.
+4)Then return in a starting position and repeat the same movement on the other side. </string>
+
+    <string name="sideelbowtwist">"1)Stand up straight with your heels together and your toes pointed outward. Put your hands behind your head.
+2)Bend your right elbow to the right side .Make sure your rib cage is moving with your elbow.
+3)Go back to your initial position and do the same thing with left.</string>
+
+    <string name="sidetosidedrop">"1)Stand up straight with your heels together and your toes pointed outward. Put your hands straight down.
+2)Bend your upper body to the right side. Make sure your rib cage is moving with your hands.
+3)Go back to your initial position and do the same thing with left.</string>
+
+    <string name="lyingbutttwist">"1)Lie down on the floor with your face up , put your palm on the floor.
+2)Bend your knees until your soles face the floor. There should be a slight gap between soles and floor.
+3)Move your core left and right by twisting your folded legs.</string>
+
+    <string name="reachingabliquetwist">"1)Lie down straight on the floor. put your hands behind your head and feet on the floor.
+2)Raise your right hand and reach to your left knee while lifting your torso off ground. Back to your normal position and lift your left hand now.
+3)Keep moving your side core muscles in whole process, dont only move your hands.</string>
+
+    <string name="ankletouchtwist">"1)Stand straight on your feet hip width apart. Put your hands behind your head.
+2)Touch your ankles by moving your right foot up and right hand down. Get back to your initial position and do the same process with your left side.
+3)Feel some contraction in your side core muscles while touching your ankles.</string>
+
+    <string name="elbowdrop">"1)Sit on the floor with your leg extended and hands behind your head.
+2)Open your legs and make the shape of v with them.
+3)Drop your right elbow to the right side. Get back to your initial position and then drop elobow to left side.</string>
+
+    <string name="toetouching">"1)Stand straigh on your feet. Open your leg wider than hip width and your hands straight parallel to ground.
+2)Touch your toes with hands by lowering your body. Touch right foot with left hand and left foot with right hand.
+3)Your hands should be straight during all the movements.</string>
+
+    <string name="heeltouch">"1)Lay down with your back on the ground and your knees bent and pointed towards the ceiling.
+2)Raise your shoulders slightly off the ground.
+3)Using your abs rotate your right hand down to your right foot and then back up.
+4)Then do the same thing with your left hand.
+5)Alternate back and forth for the desired amount of repetitions.</string>
+
+    <string name="crosspunch">"1)Lie on your back with your knees bent and feet flat on the floor. Get your hands in a fighting position directly in front of your face.
+2)Perform a standard Sit-up, making four cross-body punches. Move your rib cage while doing cross punches.
+3)Slowly lower to the starting position. </string>
+
+    <string name="standingabbike">"1)Stand up straight with your heels together and your toes pointed outward. Extend one arm straight up above your head.
+2)Raise your right knee up across the body as high as you can to your chest.Simultaneously twist your torso to the right and draw your left elbow towards the lifted knee.
+3)Then return in a starting position and repeat the same movement on the other side. </string>
+
+    <string name="armraisesplank">"1)Put your palm on the floor with straight arms at shoulder width apart and put your toes on the floor./n
+2)Your body should be in the form of an inclined straight line from head to toes./n
+3)Hold your body in this position.
+4)Raise your right hand up by moving your torso. Back to initial position and now raise your left hand.</string>
+
+    <string name="armsoverknee">"1)Sit on the ground on your knees and put your toes on the floor. Keep your upper body straight.
+2)Move your left leg out. It should be fully stretched. Raise your right hand up and put your left hand on left leg.
+3)Try to reach to stretched left leg with your right hand so that you can feel contraction in your side muscles.
+4)Slowly come back to your initial position and do the required reps.</string>
+
+    <string name="cancanabs">"1)Lay down on the floor with your arms and legs fully extended and your face up.
+2)Slightly lift your torso off the ground and place your forearms on the floor for support. Keep your legs together and bend your knees in an accute angle.
+3)Hold your legs and upper body in this position. Lift your legs off ground and twist them in both left and right directions slowly.
+</string>
+
+    <string name="crossbodycrunches">"1)Lay down on the floor with your face up, feet on the floor and knees bent. Put your right leg over left knee and left hand behind your head.
+2)Lift your torso up and try to reach towards right knee with your left elbow. Make sure your rib cage is moving, not your hand.
+3)Complete your target with this side then switch your position to other side and do the same.</string>
+
+    <string name="headdrop">"1)Sit on the ground on your knees and put your toes on the floor. Keep your upper body straight.
+2)Move your left leg out. It should be fully stretched. Place your both hands behind your head.
+3)Drop your head towards the right side and feel contraction in your side muscles.
+4)Slowly come back to your initial position and do the required reps.</string>
+
+    <string name="kneetoelbowtwist" tools:ignore="ExtraTranslation">"1)Put your palm on the floor with straight arms at shoulder width apart and put your toes on the floor./n
+2)Your body should be in the form of an inclined straight line from head to toes./n
+3)Lift your right leg and move it to your left elbow by bending its knee and put it back.
+4)Do the same thing with your left leg. Here your one rep is completed.</string>
+
+    <string name="reclinedobliquetwist">"1)Lay down straight on the floor with your face up and your legs and arms fully extended.
+2)Lift your torso off ground and place your forearms on the floor for support.
+3)Raise your right leg and left hand up and make a sign of oblique with them.
+4)Back to your initial position and repeat the process with your left leg and right hand.</string>
+
+
+    <string name="crosskneeplank">"1)Lie face down on the ground with extended legs.
+2)Point your toes while you place your forearms beneath your shoulders.
+3)Push yourself up into the plank position.
+4)Maintaining a tight core and flat back, bring your left knee to your left elbow.
+5)Pause and slowly return to the starting point.
+6)Repeat with the other side and keep alternating.</string>
+
+
+    <string name="sidecrunch">"1)Lie down on a fitness mat on one side of your body. Your legs should be stacked on top of each other.
+2)Place your upper arm’s hand behind or at the side of your head. Place your lower arm’s hand either extended straight out from your body, or on your thigh or abdomen.
+3)Exhale and contract your abdominal oblique muscles to lift your upper body off the mat and crunch. 
+4)Try to crunch to your side as high as possible, aiming to get your elbow as close to your thigh as you can. Pause and hold the crunch for a brief moment before coming back down to your starting position.
+</string>
+
+    <string name="pilatessidehipraises">"1)Start in a side plank with your right hand directly underneath your right shoulder and put your forearms on the floor. 
+2)Your left foot stacked on top of the right and knees are bent.
+3)Dip your hips down toward the ground and then lift them back up.
+4)Repeat until required times before switching to the left side.</string>
+
+    <string name="hipliftpulses">"1)Start in a straight arm side plank with your right hand directly underneath your right shoulder and your left foot stacked on top of the right.our legs 
+2)Raise your right hand straight upside. Your legs should be fully extended.
+3)Dip your hips down toward the ground and then lift them back up.
+4)Repeat until required times before switching to the left side.</string>
+
+    <string name="rainbowswoops">"1)Get into a position of straight arm side plank. Put your right hand on the floor and left in the air. Keep your left sole on the floor by bending its knee.
+3)Now in this position move your hips up and down as well as make a rainbow swoop with your hand moving over your head.
+4)Keep your core tight and muscles ingaged.</string>
+
+    <string name="glutestouchtwist">"1)Put your hands and toes on the floor and get into the position of straight arm plank.
+2)Drop your hips to the ground on right side and slowly come back to your initial position.
+3)Now drop your hips to the left. Keep your core tight through the whole process.</string>
+
+    <string name="kneeswing">"1)Put your hands and toes on the floor and get into the position of straight arm plank.
+2)Lift your right leg off ground, bend its knee and keep it near your core.
+3)Hold your body in this position and make your knee swing. Do until required time and then switch the leg.</string>
+
+    <string name="pullandtwist">"1)Sit on the ground with your legs slightly bent and spine straight.
+2)Take a resistance band and arrange it with your right leg and left hand as shown in vedio.
+3)Pull the band and twist your core towards your left side then slowly put it back to its initial position. This is on rep.
+4)Complete your reps with this side and then switch to other side.</string>
+
+    <string name="reversetabletop">"1)Start seated with bent knees and feet on the floor directly under knees. Place your hands on the floor slightly wider than shoulders with fingers pointed towards your body.
+2)Lift hips and torso off the floor and gaze up towards the ceiling keeping your neck relaxed. 
+3)Raise your right hand up in the air and touch the ground with it on the left side of your body by twisting your core.
+4)Pull your belly button towards spine and keep your core tight.</string>
+
+    <string name="backpackkiddance">"1)Start seated with bent knees and feet on the floor directly under knees. Place your hands on the floor slightly wider than shoulders with fingers pointed towards your body.
+2)Lift hips and torso off the floor and gaze up towards the ceiling keeping your neck relaxed.
+3)Raise your right hand up in the air and touch the ground with it on the left side of your body by twisting your core.
+4)Pull your belly button towards spine and keep your core tight.</string>
+
+
+    <string name="title_activity_crunches">Crunches</string>
+    <string name="title_activity_bmi_index">Bmi_index</string>
+    <string name="title_activity_comment_us">comment_us</string>
+    <string name="title_activity_another">activity_another</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the dispLie, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for Lieering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app Lieout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the Lieout level, design your app Lieout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_rohit">Rohit</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_uploadmedia">uploadmedia</string>
+    <string name="title_activity_show_images">ShowImagesActivity</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_uploadvideo">uploadvideo</string>
+    <string name="title_activity_my_notification">My_notification</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_news_web_view">NewsWebView</string>
+    <string name="title_activity_aahomeabs">aahomeabs</string>
+    <string name="title_activity_aahomeshoulder">aahomeshoulder</string>
+    <string name="title_activity_aahomebiseps">aahomebiseps</string>
+    <string name="title_activity_aahomechest">aahomechest</string>
+    <string name="title_activity_aahometriceps">aahometriceps</string>
+    <string name="title_activity_aahomeback">aahomeback</string>
+    <string name="title_activity_aahomecardio">aahomecardio</string>
+    <string name="title_activity_aahomeforearms">aahomeforearms</string>
+    <string name="title_activity_aahomelegs">aahomelegs</string>
+    <string name="title_activity_aahomecalf">aahomecalf</string>
+    <string name="title_activity_aahomeglutes">aahomeglutes</string>
+    <string name="title_activity_aahomesidefat">aahomesidefat</string>
+    <string name="title_activity_homebeginner">homebeginner</string>
+    <string name="title_activity_homeintermediate">homeintermediate</string>
+    <string name="title_activity_homeadvanced">homeadvanced</string>
+    <string name="title_activity_bbhomeabs">bbhomeabs</string>
+    <string name="title_activity_bbhomeshoulder">bbhomeshoulder</string>
+    <string name="title_activity_bbhomebiseps">bbhomebiseps</string>
+    <string name="title_activity_bbhomechest">bbhomechest</string>
+    <string name="title_activity_bbhometriceps">bbhometriceps</string>
+    <string name="title_activity_bbhomeback">bbhomeback</string>
+    <string name="title_activity_bbhomecardio">bbhomecardio</string>
+    <string name="title_activity_bbhomeforearms">bbhomeforearms</string>
+    <string name="title_activity_bbhomelegs">bbhomelegs</string>
+    <string name="title_activity_bbhomecalf">bbhomecalf</string>
+    <string name="title_activity_bbhomeglutes">bbhomeglutes</string>
+    <string name="title_activity_bbhomesidefat">bbhomesidefat</string>
+    <string name="title_activity_cchomeabs">cchomeabs</string>
+    <string name="title_activity_cchomeshoulder">cchomeshoulder</string>
+    <string name="title_activity_cchomebiseps">cchomebiseps</string>
+    <string name="title_activity_cchomechest">cchomechest</string>
+    <string name="title_activity_cchometriceps">cchometriceps</string>
+    <string name="title_activity_cchomeback">cchomeback</string>
+    <string name="title_activity_cchomecardio">cchomecardio</string>
+    <string name="title_activity_cchomeforearms">cchomeforearms</string>
+    <string name="title_activity_cchomelegs">cchomelegs</string>
+    <string name="title_activity_cchomecalf">cchomecalf</string>
+    <string name="title_activity_cchomeglutes">cchomeglutes</string>
+    <string name="title_activity_cchomesidefat">cchomesidefat</string>
+    <string name="title_activity_ddgymabs">ddgymabs</string>
+    <string name="title_activity_ddgymshoulder">ddgymshoulder</string>
+    <string name="title_activity_ddgymbiseps">ddgymbiseps</string>
+    <string name="title_activity_ddgymchest">ddgymchest</string>
+    <string name="title_activity_ddgymtriceps">ddgymtriceps</string>
+    <string name="title_activity_ddgymback">ddgymback</string>
+    <string name="title_activity_ddgymcardio">ddgymcardio</string>
+    <string name="title_activity_ddgymforearms">ddgymforearms</string>
+    <string name="title_activity_ddgymlegs">ddgymlegs</string>
+    <string name="title_activity_ddgymcalf">ddgymcalf</string>
+    <string name="title_activity_ddgymglutes">ddgymglutes</string>
+    <string name="title_activity_ddgymsidefat">ddgymsidefat</string>
+    <string name="title_activity_eegymabs">eegymabs</string>
+    <string name="title_activity_eegymshoulder">eegymshoulder</string>
+    <string name="title_activity_eegymbiseps">eegymbiseps</string>
+    <string name="title_activity_eegymchest">eegymchest</string>
+    <string name="title_activity_eegymtriceps">eegymtriceps</string>
+    <string name="title_activity_eegymback">eegymback</string>
+    <string name="title_activity_eegymcardio">eegymcardio</string>
+    <string name="title_activity_eegymforearm">eegymforearm</string>
+    <string name="title_activity_eegymlegs">eegymlegs</string>
+    <string name="title_activity_eegymcalf">eegymcalf</string>
+    <string name="title_activity_eegymglutes">eegymglutes</string>
+    <string name="title_activity_eegymsidefat">eegymsidefat</string>
+    <string name="title_activity_pussups">pussups</string>
+    <string name="title_activity_plank">plank</string>
+    <string name="title_activity_bhreclinedobliquetwist">bhreclinedobliquetwist</string>
+    <string name="title_activity_bhbottomleglift">bhbottomleglift</string>
+    <string name="title_activity_altenatinghooks">altenatinghooks</string>
+    <string name="title_activity_bottomleglift">bottomleglift</string>
+    <string name="title_activity_motivational__quotes">Motivational_Quotes</string>
+    <string name="title_activity_crunches1">crunches1</string>
+    <string name="title_activity_crunches3">crunches3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_shoulder1">shoulder1</string>
+    <string name="title_activity_shoulder2">shoulder2</string>
+    <string name="title_activity_shoulder3">shoulder3</string>
+    <string name="title_activity_aahomearms">aahomearms</string>
+    <string name="title_activity_bbhomearms">bbhomearms</string>
+    <string name="title_activity_arms1">arms1</string>
+    <string name="title_activity_arms2">arms2</string>
+    <string name="title_activity_arms31">arms31</string>
+    <string name="title_activity_arms32">arms32</string>
+    <string name="title_activity_arms33">arms33</string>
+    <string name="title_activity_chest1">chest1</string>
+    <string name="title_activity_chest2">chest2</string>
+    <string name="title_activity_chest3">chest3</string>
+    <string name="title_activity_warmup">warmup</string>
+    <string name="title_activity_warmup1">warmup1</string>
+    <string name="title_activity_legs1">legs1</string>
+    <string name="title_activity_legs2">legs2</string>
+    <string name="title_activity_legs3">legs3</string>
+    <string name="title_activity_glutes1">glutes1</string>
+    <string name="title_activity_glutes2">glutes2</string>
+    <string name="title_activity_glutes3">glutes3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sidefat1">sidefat1</string>
+    <string name="title_activity_sidefat2">sidefat2</string>
+    <string name="title_activity_sidefat3">sidefat3</string>
+    <string name="title_activity_cooldown">cooldown</string>
+    <string name="title_activity_cooldown1">cooldown1</string>
+</resources>

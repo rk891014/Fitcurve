@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Workout_Training">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_bar_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/homeworkouthome"
+            android:fitsSystemWindows="true"
+            app:collapsedTitleGravity="top|left"
+            app:collapsedTitleTextAppearance="@style/TextAppearance.AppCompat.Large"
+            app:contentScrim="#FF8A65"
+            app:expandedTitleGravity="left|bottom|center"
+            app:expandedTitleMargin="44dp"
+            app:expandedTitleTextAppearance="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:statusBarScrim="#FF5722"
+            app:title="Gym Workout Training"
+            app:titleEnabled="true"
+            app:toolbarId="@+id/toolbar">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="top"
+                android:gravity="bottom"
+                app:buttonGravity="bottom"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                app:subtitle="Workout Training"
+                app:subtitleTextColor="#000033"
+                app:title="Gym Workout Training"
+                app:titleMargin="22dp"
+                app:titleTextAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:titleTextColor="#D81B37" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include
+        layout="@layout/content_workout__training"
+        android:background="#FF80AB" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

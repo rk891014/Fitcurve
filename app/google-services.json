@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1094278929770",
+    "firebase_url": "https://girls-fitness-2f107.firebaseio.com",
+    "project_id": "girls-fitness-2f107",
+    "storage_bucket": "girls-fitness-2f107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094278929770:android:76e6b6c3f9bc3e7b",
+        "android_client_info": {
+          "package_name": "com.example.girls_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094278929770-ucjq55a1gm8us1ass688ga4l815r39s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.girls_fitness",
+            "certificate_hash": "a6722ba8c7944e206e096c43c1f8ac39d857f55c"
+          }
+        },
+        {
+          "client_id": "1094278929770-kljpg1ehalecblbfsdnu6fje8mlm4b53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbMTE8wIAySmmwcCeeThW-Z8YSXtqwpko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094278929770-kljpg1ehalecblbfsdnu6fje8mlm4b53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094278929770:android:a96969936657f5c9",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094278929770-kdp4sepc5cs2vakmd65qrqs1rrs7q16u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notification",
+            "certificate_hash": "a6722ba8c7944e206e096c43c1f8ac39d857f55c"
+          }
+        },
+        {
+          "client_id": "1094278929770-kljpg1ehalecblbfsdnu6fje8mlm4b53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbMTE8wIAySmmwcCeeThW-Z8YSXtqwpko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094278929770-kljpg1ehalecblbfsdnu6fje8mlm4b53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="500dp">
+
+
+    <TextView
+        android:id="@+id/dialog_error_content_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="Do you really want exit from application?"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:layout_marginTop="188dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:id="@+id/dialog_error_buttons_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="8dp" >
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="65dp"
+            android:layout_height="40dip"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:text="Yes" />
+
+        <Button
+            android:id="@+id/No"
+            android:layout_width="65dp"
+            android:layout_height="40dip"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:text="No" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

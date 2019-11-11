@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Home_Workout_Training">
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:fitsSystemWindows="true"
+            app:collapsedTitleGravity="top|left"
+            app:collapsedTitleTextAppearance="@style/TextAppearance.AppCompat.Large"
+            app:contentScrim="@drawable/lelo"
+            app:expandedTitleMargin="44dp"
+            app:expandedTitleTextAppearance="@style/TextAppearance.AppCompat.Headline"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:statusBarScrim="#29B1E6"
+            app:title="Home Workout Training"
+            app:expandedTitleMarginBottom="1dp"
+            app:titleEnabled="true"
+            app:expandedTitleGravity="bottom|center_horizontal"
+            app:toolbarId="@+id/toolbar">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:src="@drawable/motivation"
+                android:scaleType="fitXY"
+                android:layout_height="match_parent" />
+
+
+
+            <androidx.appcompat.widget.Toolbar
+
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="top"
+                android:gravity="bottom"
+                app:buttonGravity="bottom"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                app:subtitle="Workout Training"
+                app:subtitleTextColor="#8E24AA"
+                app:title="Gym Workout Training"
+                app:titleMargin="22dp"
+                app:titleTextAppearance="@style/TextAppearance.AppCompat.Medium"
+                app:titleTextColor="#D81B37" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_home__workout__training" />
+
+
+
+</RelativeLayout>
